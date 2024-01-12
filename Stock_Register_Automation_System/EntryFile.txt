@@ -1,0 +1,54 @@
+July 28, 2023 - 09:43 PM
+------RAW MATERIALS RECEIVED ON THIS DAY------
+a -> 100 units
+b -> 0 units
+c -> 50 units
+d -> 1000 units
+
+------FINAL PRODUCTS MANUFACTURED ON THIS DAY------
+A -> 50 units
+B -> 25 units
+
+------FINAL PRODUCTS DISPATCHED ON THIS DAY------
+A -> 75 units
+B -> 128 units
+
+------NET RAW MATERIALS BALANCE------
+a -> 160
+b -> 112
+c -> 278
+d -> 1314
+
+------NET FINAL MATERIALS BALANCE------
+A -> 96
+B -> 25
+
+________________________________________________________________________________
+
+July 28, 2023 - 09:49 PM
+------RAW MATERIALS RECEIVED ON THIS DAY------
+a -> 1 units
+b -> 1 units
+c -> 1 units
+d -> 1 units
+
+------FINAL PRODUCTS MANUFACTURED ON THIS DAY------
+A -> 1 units
+B -> 1 units
+
+------FINAL PRODUCTS DISPATCHED ON THIS DAY------
+A -> 1 units
+B -> 1 units
+
+------NET RAW MATERIALS BALANCE------
+a -> 160
+b -> 111
+c -> 276
+d -> 1311
+
+------NET FINAL MATERIALS BALANCE------
+A -> 96
+B -> 25
+
+________________________________________________________________________________
+
